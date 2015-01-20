@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Git seems really really cool.
 I will use it to make maps. 
 fjkdlasf
+
